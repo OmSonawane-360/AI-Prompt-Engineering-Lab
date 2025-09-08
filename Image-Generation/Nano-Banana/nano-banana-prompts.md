@@ -23,7 +23,9 @@ This is a highly detailed prompt used to generate a realistic product shot of a 
 "Using the nano-banana model, create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is the Zbrush modeling process of this figurine. Next to the computer screen is a BANDAI-style toy packaging box printed with the original artwork. The packaging features two-dimensional flat illustrations. Please turn this photo into a figure. Behind it, there should be a Model packaging box with the character from this photo printed on it. In front of the box, on a round plastic base, place the figure version of the photo I gave you. I'd like the PVC material to be clearly represented. It would be even better if the background is indoors."
 
 **Result**
-(https://github.com/OmSonawane-360/AI-Prompt-Engineering-Lab/blob/main/Image-Generation/Nano-Banana/Image's/image-two.jpg)
+  - ![Alt text](https://github.com/OmSonawane-360/AI-Prompt-Engineering-Lab/blob/main/Image-Generation/Nano-Banana/Image's/image-two.jpg)
+
+
 
 ### 📌 Prompt for a Professional Headshot
 This prompt is for creating a polished, professional image for use on platforms like **LinkedIn**.  
