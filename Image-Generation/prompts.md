@@ -1,17 +1,3 @@
-# 🎨 AI Prompt Engineering Collection – Creative & Professional Use Cases
-
-Welcome to this curated collection of prompts for **AI image generation models**.  
-This repository showcases how **prompt engineering** can be used to produce **photorealistic, artistic, and imaginative outputs** for a wide variety of domains.
-
----
-
-## 🚀 Why Prompt Engineering Matters
-Prompt engineering is not just typing random keywords. It’s about:
-- **Clarity** → Guiding the AI towards a precise, desired output.  
-- **Detail Control** → Managing environment, mood, lighting, materials, and more.  
-- **Unlocking Creativity** → Going beyond generic results to produce unique, tailored images.  
-
----
 
 ## 📂 Prompt Categories
 
@@ -59,9 +45,5 @@ Prompt engineering is not just typing random keywords. It’s about:
 - **Layer Ideas** → Start broad (subject), then narrow down (environment, details, mood).  
 
 ---
-
-## 📌 About This Repository
-This repository is a **living collection of AI prompts**. It’s designed to inspire **artists, designers, and developers** to explore the creative potential of **prompt engineering**.  
-Feel free to contribute your own prompts or improve existing ones!  
 
 ✨ Happy Prompting!
