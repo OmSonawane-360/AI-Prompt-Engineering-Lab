@@ -23,7 +23,7 @@ This is a highly detailed prompt used to generate a realistic product shot of a 
 "Using the nano-banana model, create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is the Zbrush modeling process of this figurine. Next to the computer screen is a BANDAI-style toy packaging box printed with the original artwork. The packaging features two-dimensional flat illustrations. Please turn this photo into a figure. Behind it, there should be a Model packaging box with the character from this photo printed on it. In front of the box, on a round plastic base, place the figure version of the photo I gave you. I'd like the PVC material to be clearly represented. It would be even better if the background is indoors."
 
 
----
+
 
 ### 📌 Prompt for a Professional Headshot
 This prompt is for creating a polished, professional image for use on platforms like **LinkedIn**.  
@@ -49,7 +49,6 @@ Transforms a person into a **futuristic character** with detailed attire, enviro
 **Prompt:**  
 "Transform the provided image of the subject into a stylized digital painting of a futuristic data analyst. The subject is wearing a sleek, dark tech-wear jacket with glowing blue accents. They are in a dimly lit server room, surrounded by holographic displays of complex code and data streams that reflect on their glasses. The lighting is dramatic, with neon light casting a glow on the face and emphasizing the focused expression. The overall style is a blend of cyberpunk and digital realism."
 
----
 
 ### 📌 Prompt for Architectural Visualization
 Generates **complex architectural scenes** with mood and technology details.  
@@ -60,7 +59,7 @@ Generates **complex architectural scenes** with mood and technology details.
 "Generate a photorealistic image of a minimalist living room in a modern skyscraper apartment, overlooking a futuristic cityscape at dusk. Include a self-watering indoor vertical garden made of frosted glass and a levitating bonsai tree on a polished concrete coffee table. The light source is an ambient glow from smart LED strips integrated into the ceiling, casting soft shadows. The overall mood should be serene and technologically advanced."
 
 
----
+
 
 ### 📌 Prompt for a Sci-Fi / Fantasy Scene
 Creates **rich, fantastical worlds**, blending technology, nature, and mythology.  
