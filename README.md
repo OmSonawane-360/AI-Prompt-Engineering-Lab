@@ -11,11 +11,6 @@ A well-crafted prompt:
 - **Controls Detail**: Specifies intricate details, from lighting and materials to mood and composition.  
 - **Unlocks Potential**: Moves beyond generic results and unlocks the unique, powerful capabilities of the model.  
 
-The prompts below are not just examples; they are **blueprints for a process**.  
-Each one is a deliberate combination of style, subject, environment, and specific details designed to produce a high-quality, targeted image.
-
----
-
 
 ---
 
