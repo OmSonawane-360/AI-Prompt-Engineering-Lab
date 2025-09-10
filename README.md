@@ -27,4 +27,5 @@ A well-crafted prompt:
 ✨ Feel free to use these prompts as a starting point for your own creations.  
 **Happy generating!** 🚀
 
-  - ![Alt text]()
+---
+  - ![Alt text](https://github.com/OmSonawane-360/AI-Prompt-Engineering-Lab/blob/main/Prompt%20Design%20in%20Vertex%20AI.png)
