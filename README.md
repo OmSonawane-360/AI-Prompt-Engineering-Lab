@@ -13,7 +13,7 @@ A well-crafted prompt:
 
 
 ---
-
+ 
 ## 📝 Important Tips for Prompt Engineering
 
 - **Be Specific** → Instead of *"a house"*, try *"a weathered, two-story farmhouse with a red tin roof and a wrap-around porch"*.  
