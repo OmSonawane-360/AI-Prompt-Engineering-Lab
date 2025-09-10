@@ -26,3 +26,5 @@ A well-crafted prompt:
 
 ✨ Feel free to use these prompts as a starting point for your own creations.  
 **Happy generating!** 🚀
+
+  - ![Alt text]()
