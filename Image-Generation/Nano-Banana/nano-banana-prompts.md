@@ -1,6 +1,6 @@
 # AI Image Generation Prompts with the Nano-Banana Model
 
-Welcome to this collection of prompts for the **nano-banana AI image generation model**.  
+Welcome to this collection of prompts for the **nano-banana AI image generation model**.   
 This repository is designed to serve as a practical guide and inspiration for leveraging the advanced capabilities of generative AI for various creative and professional projects.
 
 ---
