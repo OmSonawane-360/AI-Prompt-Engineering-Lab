@@ -2,7 +2,7 @@
 
 ## 🌟 The Importance of Prompt Engineering
  
-This journey into AI-driven art has truly highlighted the critical role of **prompt engineering**.  
+This journey into AI-driven art has truly highlighted the critical role of **prompt engineering**.   
 It's more than just a list of keywords; it's the art and science of communicating effectively with an AI model.  
 
 A well-crafted prompt:
