@@ -7,7 +7,7 @@ It's more than just a list of keywords; it's the art and science of communicatin
      
 A well-crafted prompt:     
 
-- **Provides Clarity**: Eliminates ambiguity and directs the AI toward a specific, desired outcome.      
+- **Provides Clarity**: Eliminates ambiguity and directs the AI toward a specific, desired outcome.       
 - **Controls Detail**: Specifies intricate details, from lighting and materials to mood and composition.   
 - **Unlocks Potential**: Moves beyond generic results and unlocks the unique, powerful capabilities of the model.  
  
