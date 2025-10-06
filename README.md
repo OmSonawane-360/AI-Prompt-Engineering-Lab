@@ -11,7 +11,7 @@ A well-crafted prompt:
 - **Controls Detail**: Specifies intricate details, from lighting and materials to mood and composition.   
 - **Unlocks Potential**: Moves beyond generic results and unlocks the unique, powerful capabilities of the model.      
   
-
+ 
 ---
  
 ## 📝 Important Tips for Prompt Engineering
